@@ -12,12 +12,14 @@ Below is a list of EVM wallets where lost tokens have been found
 
 | Wallet Address                               | Amount  | Token |
 | -------------------------------------------- | ------- | ----- |
+| `0x463f64Ad3448e0bE80ba3b6428a9d029f25f162f` | 30.9582 | ETH   |
 | `0x5d027C3d5864F908D98D5Fb5ECe86f310a48D4C1` | 11.3273 | ETH   |
 | `0xcAA31fa413C555E8B74e70fE9F6036385A7e0Fc3` | 6.1256  | ETH   |
 | `0x4E656459ed25bF986Eea1196Bc1B00665401645d` | 4.4120  | ETH   |
 | `0xeAEC61Ea9EEB8f419256646355f1F716B1d9F906` | 4.0743  | ETH   |
 | `0xe83f922C34A1962e9aE9F52B59e18239764f2818` | 3.3425  | ETH   |
 | `0x301dD4a10856eB084F1280ea86D1a7378440b3dF` | 2.4015  | ETH   |
+| `0x50Ff3B278fCC70ec7A9465063d68029AB460eA04` | 2.1381  | ETH   |
 | `0x23a0991f3eb9E726fD65A73135B24011dc742a0c` | 2.1256  | ETH   |
 | `0xFF8f089128f53D6c54F769843dEFAAf5fbF02198` | 2.0881  | ETH   |
 | `0x32A418aa2BB4bea14668C4dD467ECdEB59B40DeA` | 2.0050  | ETH   |
@@ -27,6 +29,8 @@ Below is a list of EVM wallets where lost tokens have been found
 | `0xA4Fc4fF53083f99722eC83595f1bB4802f604F03` | 1.6400  | ETH   |
 | `0xcb9968Cb0d6612e1167e445774997C63a0792dbF` | 1.6121  | ETH   |
 | `0x71897ac6D6cfbA98c67805799117Cf761A41eFDc` | 1.5549  | ETH   |
+| `0xd268dfbBfd0D2572887d1de9759e92bED56362Cb` | 1.5200  | ETH   |
+| `0x82256919FD58dd73F303ADDE11b608f59fE780df` | 1.4452  | ETH   |
 | `0x1865f06B0Dec0DC5D5fC3bED98E7e82F7766E87E` | 1.3957  | ETH   |
 | `0x7Fba3dB639ef853246EA72635fE51A96DfA5fC12` | 1.2650  | ETH   |
 | `0x67824Da7caB81891e466714148C79bE0ed9E4F99` | 1.2021  | ETH   |
@@ -43,6 +47,6 @@ Below is a list of EVM wallets where lost tokens have been found
 | `0xc3340aD64F251372F016329E8696F6A679830965` | 0.1862  | ETH   |
 | `0x369429ec92b0e7844f2aD8365c8E331075214aA1` | 0.1736  | ETH   |
 | `0xF9b1f1297835fEb19A83439a311c9453C60D52A2` | 0.1500  | ETH   |
-| Total                                        | 61.7451 | ETH   |
+| Total                                        | 97.8066 | ETH   |
 
 ---
