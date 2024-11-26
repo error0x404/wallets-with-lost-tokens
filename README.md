@@ -12,13 +12,20 @@ Below is a list of EVM wallets where lost tokens have been found
 
 | Wallet Address                               | Amount   | Token |
 | -------------------------------------------- | -------- | ----- |
+| `0x43aA90c66b88FF904aDC195987C0F3e3b09BE0F1` | 47.0790  | ETH   |
 | `0x463f64Ad3448e0bE80ba3b6428a9d029f25f162f` | 30.9582  | ETH   |
+| `0xf20fe980677d703a0a1fe5f38cc9ab0f1452ca11` | 14.1767  | ETH   |
 | `0x5d027C3d5864F908D98D5Fb5ECe86f310a48D4C1` | 11.3273  | ETH   |
+| `0x4518231a8fdf6ac553b9bbd51bbb86825b583263` | 8.5739   | ETH   |
 | `0xcAA31fa413C555E8B74e70fE9F6036385A7e0Fc3` | 6.1256   | ETH   |
+| `0x07537D4360aF2489FC1Ca086EA9741c054d804de` | 5.5424   | ETH   |
 | `0xa1EFdA57ffF5Bde3e74C10e2E14154eB0277AD80` | 4.9998   | ETH   |
+| `0x47399364835b6c58191F6350bf63a755F80b0ffb` | 4.5371   | ETH   |
+| `0xFbf50Be384E02a1cc53eD0d44e183dD6803EE1bA` | 4.4659   | ETH   |
 | `0x4E656459ed25bF986Eea1196Bc1B00665401645d` | 4.4120   | ETH   |
 | `0xeAEC61Ea9EEB8f419256646355f1F716B1d9F906` | 4.0743   | ETH   |
 | `0xe83f922C34A1962e9aE9F52B59e18239764f2818` | 3.3425   | ETH   |
+| `0xBB1a241DCBd6A3894cB61F659034874Dc9CF65D4` | 2.6921   | ETH   |
 | `0xd7EC70a520323C4EbFA45f7F29e415DE758B0b26` | 2.4835   | ETH   |
 | `0x301dD4a10856eB084F1280ea86D1a7378440b3dF` | 2.4015   | ETH   |
 | `0x50Ff3B278fCC70ec7A9465063d68029AB460eA04` | 2.1381   | ETH   |
@@ -52,10 +59,11 @@ Below is a list of EVM wallets where lost tokens have been found
 | `0x418c3d5CD2Ba7E51D32D987FF0810f8fdBc1f992` | 0.8680   | ETH   |
 | `0xA31E8CdCe73728235cc05f8AD08A4fca5C1A14c0` | 0.8680   | ETH   |
 | `0xd393D1A5B5256d21c86976216161dD4Ff0520A36` | 0.8398   | ETH   |
+| `0xf0C1fCdE28D8cbf7ae9F34BCC0c7a9cDdEdDb559` | 0.8219   | ETH   |
 | `0x8281B589Ea0c0B126aF00df3FAe781140920500a` | 0.3336   | ETH   |
 | `0xc3340aD64F251372F016329E8696F6A679830965` | 0.1862   | ETH   |
 | `0x369429ec92b0e7844f2aD8365c8E331075214aA1` | 0.1736   | ETH   |
 | `0xF9b1f1297835fEb19A83439a311c9453C60D52A2` | 0.1500   | ETH   |
-| Total                                        | 114.3894 | ETH   |
+| Total                                        | 202.2784 | ETH   |
 
 ---
